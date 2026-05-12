@@ -257,7 +257,7 @@ export default function RomanticLovePage() {
 
           <div className="relative overflow-hidden rounded-full border border-white/10 shadow-[0_0_80px_rgba(255,0,120,0.4)]">
             <img
-              src="public/img/main.png"
+              src="public/img/main.jpg"
               alt="her"
               className="h-52 w-52 object-cover transition duration-700 hover:scale-110"
             />
