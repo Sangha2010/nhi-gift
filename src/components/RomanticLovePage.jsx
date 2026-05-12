@@ -257,7 +257,7 @@ export default function RomanticLovePage() {
 
           <div className="relative overflow-hidden rounded-full border border-white/10 shadow-[0_0_80px_rgba(255,0,120,0.4)]">
             <img
-              src="/img/main.jpg"
+              src="public/img/main.jpg"
               alt="her"
               className="h-52 w-52 object-cover transition duration-700 hover:scale-110"
             />
@@ -265,7 +265,7 @@ export default function RomanticLovePage() {
         </div>
 
         <h1 className="bg-gradient-to-r from-pink-300 via-white to-purple-300 bg-clip-text text-6xl font-black text-transparent md:text-8xl">
-          Lê Ánh Tuyết ❤️
+          Yến Nhi❤️
         </h1>
 
         <div className="mt-10 rounded-full border border-pink-400/20 bg-white/5 px-6 py-3 backdrop-blur-xl">
@@ -525,7 +525,7 @@ export default function RomanticLovePage() {
               className="mx-auto mt-12 max-w-3xl rounded-[3rem] border border-white/10 bg-black/40 p-12 backdrop-blur-3xl"
             >
               <h3 className="text-4xl font-black text-pink-300">
-                To Bé Tít ❤️
+                To Bé Nhi ❤️
               </h3>
 
               <p className="mt-8 text-lg leading-relaxed text-pink-100/70">
